@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std;
-//conflitto Branch;
+//conflitto Branch1;
 int main(){
-	for (int i=0;i<10;i++){
-		cout<<i;
+	for (int J=0;J<10;J++){
+		cout<<J;
 	}
 	return 0;
 }
