@@ -1,9 +1,10 @@
 #include <iostream>
 using namespace std;
-//conflitto Branch1;
+//conflitto Branchew1;
+//autore Tommaso Costanzo
 int main(){
-	for (int J=0;J<10;J++){
-		cout<<J;
+	for (int X=0;X<10;X++){
+		cout<<"numero:"<<X<<endl;
 	}
 	return 0;
 }
